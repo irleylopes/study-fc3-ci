@@ -10,5 +10,4 @@ class StudyFc3CiApplicationTests {
 	void contextLoads() {
 	}
 
-
 }
